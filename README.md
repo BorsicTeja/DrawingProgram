@@ -3,7 +3,7 @@
 ## How to start the application
 
 - The application is a regular Java Project.
-- Navigate into the project ```java -jar DrawingProgram.jar```
+- Navigate into the project folder and run ```java -jar DrawingProgram.jar```
 
 
 ## Instructions on how to use the application
